@@ -1,2 +1,0 @@
-# reactshop
-react shop
